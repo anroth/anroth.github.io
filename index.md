@@ -10,3 +10,5 @@ Hier beginnt die Beschreibung des Charakters. Bla blubber die blub blub blub. Wa
 * eigenschaft 4
 * eigenschaft 5
 * eigenschaft 6
+
+> I’ve always been more interested in the future than in the past.
